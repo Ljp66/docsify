@@ -22,7 +22,7 @@ pdf格式虽然具有种种优点，但是很难编辑、处理。我们很多�
 
 pdf补丁丁的官网是[https://www.cnblogs.com/pdfpatcher](https://www.cnblogs.com/pdfpatcher/)，页面内有下载链接，软件说明书。下载得到一个压缩文件，解压，文件夹内包含程序的主体与依赖，这些文件不能删除或移动。程序无需安装，双击PDFPatcher.exe即可运行。主页如下：
 
-![主页](_images/0x63eXvKwy.png)
+![主页](../_images/0x63eXvKwy.png)
 
 从图中可以看出PDF补丁丁有许多功能，我们主要使用下面几个。
 
@@ -30,7 +30,7 @@ pdf补丁丁的官网是[https://www.cnblogs.com/pdfpatcher](https://www.cnblogs
 
 在主页找到“合并文件”，点击，出现如下界面：
 
-![合并文件](_images/PDFPatcher_a4vbnvIyiV.png)
+![合并文件](../_images/PDFPatcher_a4vbnvIyiV.png)
 
 在界面左上角找到“添加文件”（上图画红框处），点击后出现文件管理器，选择需要转化的图片。多张图片可通过多次点击“添加文件”添加，图片排列顺序决定输出顺序。然后在界面底部“输出PDF文件”后点击“浏览”（注意：不要点击“PDF信息文件”后的“浏览”），出现文件管理器，对输出的PDF文件命名。最后点击“生成合并文件”，进度条走满后转化完成。
 
@@ -42,7 +42,7 @@ pdf补丁丁的官网是[https://www.cnblogs.com/pdfpatcher](https://www.cnblogs
 
 在主页点击“提取页面或拆分文档”，出现如下页面：
 
-![提取页面](_images/KkDU528esB.png)
+![提取页面](../_images/KkDU528esB.png)
 
 在“原始PDF文件”后点击“浏览”，选择原PDF文件，然后在“输出PDF文件”后点击“浏览”，对输出文件进行命名。接着选择需要提取的PDF页码，在“页码范围”处填写页码。页码范围按照如下规则填写：
 
@@ -66,7 +66,7 @@ pdf补丁丁的官网是[https://www.cnblogs.com/pdfpatcher](https://www.cnblogs
 
 在主页点击“转换页面为图片”，出现如下页面：
 
-![页面转图片](_images/3FAS7ChT8F.png)
+![页面转图片](../_images/3FAS7ChT8F.png)
 
 PDF页面转图片大体操作与前面相同，选择“原始PDF文件”后软件会自动新建一个与原始PDF文件同名的文件夹存放图片。
 
